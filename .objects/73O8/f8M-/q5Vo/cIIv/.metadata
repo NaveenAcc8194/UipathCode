@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Leave Management (GEO)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "cIIvIHT8bkqFp5F8uDrH9A",
+  "Reference": "EYD45X_tk0-UlNNxkmo8Rw/cIIvIHT8bkqFp5F8uDrH9A",
+  "ParentRef": "EYD45X_tk0-UlNNxkmo8Rw/q5VoZTzmzki8xdU0mLuNnA",
+  "Created": "2024-05-06T17:16:35.9145437Z",
+  "Updated": "2024-05-06T17:16:35.9145437Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

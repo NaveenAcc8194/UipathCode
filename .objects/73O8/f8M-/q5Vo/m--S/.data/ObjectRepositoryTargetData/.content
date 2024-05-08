@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CibRMk-ffkmNXEvNRA5ARQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="466, 665, 42, 39" CvType="ArrowButton" DesignTimeRectangle="475, 673, 28, 28" DesignTimeScaleFactor="2" ElementType="Icon" FullSelectorArgument="&lt;webctrl aaname='' parentid='spSiteHeader' tag='I' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='' parentid='spSiteHeader' tag='I' type='' class='ms-HorizontalNav-chevronDown chevron-93' check:text='' /&gt;" Guid="109dcc4c-fe1b-4d89-9ea1-862ff631ec81" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAHYcAAB2HAY/l8WUAAADXSURBVFhH7dQxCsJAEIVh7+JNPEFKL2BrY+MR0nsEG8EDpLPbblsLwTKVBLyAYcwLYpDsrjOzgoIT+JtsyPuKkMl8WtE3M4ABDGCAHwUUnjYLN76vylG58rQOnkUAhxN1V0v13o/OZPnuXS1eRvUudB4BLMuGrrdcxDBOl4a2s9AziW8gD8EbR8mPUIfgj6MkAMkQsnH0FoB4iG78LBtHLABKI3TjiA1AYYR+HIkA6BVxzBpHYgAaEI9LOY5UAPREZIwjNaCvcNF/PLc8wAcygAEM8O+Aiu74ejDkLjkqFgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MyHCLTech - Home' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e753e6d7234a4eee989201e7d08867da.png" xmlns="">0QzP_eXiSaUSD7nfCn5qBgA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

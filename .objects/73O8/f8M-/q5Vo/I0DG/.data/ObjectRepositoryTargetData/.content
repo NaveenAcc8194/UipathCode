@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7RcR8TrSL0qgGk-PAIYKNw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="45, 291, 32, 96" DesignTimeScaleFactor="2" ElementType="Icon" FullSelectorArgument="&lt;webctrl tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SPAN' type='' class='ms-Icon--WaffleOffice365 ms-icon-font-size-16' aaname='' /&gt;" Guid="f1de3523-71db-49d4-b2ff-0ad48c8f7b1f" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACQAAABkCAYAAADuWJL0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAHYcAAB2HAY/l8WUAAAE7SURBVGhD7ZU9asNAGES/Y+gKPoIPkOQOPo8rFz6UCqvbTqVQo05FUIJACMnjFZgQkpCpBFPMg9dod+HB/ijatoWSekEvb69QMsqyhJJRVRWUjJQSlIy6rqFkNE0DJaPrOigZfd9DyRiGAUrGOI5QMqZpgpIxzzOUjGVZoGSs6wol9YLu9zuUdBAzIIaDGA5iOIjhIIaDGA5iKAe943Y54VAEojjgdLnlL/+xz/yvoHQ9IiJP/ubxmp6jv9lr/jMo4byV/1gQxTmP/MV+81WD8hKtLdsQO9QqOIjhIIZykNi1F3sY5X4dckF5idaWbYgdahUcxHAQQzlI7NqLPYxyvw65oLxEa8s2xA61Cg5iOIjhIIaDGA5iOIjhIIaDGA5iOIjhIIaDGA5iOIjhIIaDGHpBnx8DlBQLGvAA1nE3oXwrPKgAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MyHCLTech - Home' /&gt;" SearchSteps="FuzzySelector" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fb9bbe3a41eb90a95fe89f55776ed071.png" xmlns="">0HeUR8jZoM0--X1KyQhLZLw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

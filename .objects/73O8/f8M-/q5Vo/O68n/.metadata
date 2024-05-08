@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Customize your list",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "O68n7rGVxUKojwphWfYT6w",
+  "Reference": "EYD45X_tk0-UlNNxkmo8Rw/O68n7rGVxUKojwphWfYT6w",
+  "ParentRef": "EYD45X_tk0-UlNNxkmo8Rw/q5VoZTzmzki8xdU0mLuNnA",
+  "Created": "2024-05-06T17:16:35.5672808Z",
+  "Updated": "2024-05-06T17:16:35.5672808Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

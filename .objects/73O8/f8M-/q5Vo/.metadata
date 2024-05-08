@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome: MyHCLTech - Home",
+  "Type": "Screen",
+  "Id": "q5VoZTzmzki8xdU0mLuNnA",
+  "Reference": "EYD45X_tk0-UlNNxkmo8Rw/q5VoZTzmzki8xdU0mLuNnA",
+  "ParentRef": "EYD45X_tk0-UlNNxkmo8Rw/f8M-rUTGek-Q7sG5u8alLQ",
+  "Created": "2024-05-06T17:16:34.6578209Z",
+  "Updated": "2024-05-06T17:16:34.6578209Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

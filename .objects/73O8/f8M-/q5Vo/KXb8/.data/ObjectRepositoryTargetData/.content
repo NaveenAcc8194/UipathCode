@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="U59H8UEjwk6L_6TSPM_uKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="700, 665, 42, 39" CvType="ArrowButton" DesignTimeRectangle="702, 663, 43, 42" DesignTimeScaleFactor="2" ElementType="Button" FullSelectorArgument="&lt;webctrl aria-label='HR Studio submenu' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-label='HR Studio submenu' tag='BUTTON' type='' class='ms-HorizontalNavItem-splitbutton siteNavSplitButton-82' aaname='' check:text='' /&gt;" Guid="192237b7-b1e9-4770-8994-14a9b49b6aa9" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAC8AAAAuCAYAAAC4e0AJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAHYcAAB2HAY/l8WUAAAEISURBVGhD7dYxCsJAEIVh7+JNcgovkE6s7dN7BBsrT5BOAosEUtiJYKu9hQSCzehLECOsxuzOOogT+KqV+D9JwMFomNKv0ngpGi9F46VovBSNl6LxUjReisZL0XgpfxYfFTQbFzSxnfWWUTLeUBLZzrr1jp+bC+E6mZ3ngIwWpqrvVZqt5bxb/18+PtCx+U6PAY9wqs60im2f6eb2zHsN4AkH9xfWaQBfOLjHQ68BvOHgFw+tAWX+asAtPG9edK5w8I+HtwPChANPPFgHhAsHvnh4GrCnZcBw4I2H1oD6ChQO/PFwHxAwHMLEQ7SmqeN/lk+Fi/8CjZei8VI0XorGS9F4KRovI6UrW47v59YcRCYAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MyHCLTech - Home' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="11c07081c24e04873ad01f7039d54dd9.png" xmlns="">0zAyRjsTdkk6Hmx9Sh9CeDg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

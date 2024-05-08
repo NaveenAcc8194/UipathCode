@@ -1,0 +1,11 @@
+﻿{
+  "Name": "MyHCLTech - Home app",
+  "Type": "App",
+  "Id": "73O88vxXN0ugPGAwaEo7eQ",
+  "Reference": "EYD45X_tk0-UlNNxkmo8Rw/73O88vxXN0ugPGAwaEo7eQ",
+  "Created": "2024-05-06T17:16:34.6376102Z",
+  "Updated": "2024-05-06T17:16:34.6376102Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

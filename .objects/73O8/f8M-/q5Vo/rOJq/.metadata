@@ -1,0 +1,13 @@
+﻿{
+  "Name": "BUTTON O365_MainLink_Na…",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "rOJqrQbsy0makJ5SnuGDeQ",
+  "Reference": "EYD45X_tk0-UlNNxkmo8Rw/rOJqrQbsy0makJ5SnuGDeQ",
+  "ParentRef": "EYD45X_tk0-UlNNxkmo8Rw/q5VoZTzmzki8xdU0mLuNnA",
+  "Created": "2024-05-06T17:16:34.7492022Z",
+  "Updated": "2024-05-06T17:16:34.7492022Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

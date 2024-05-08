@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1-hPGT4UWkiFW1hp3AiBzw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="13, 291, 0, 0" DesignTimeScaleFactor="2" ElementType="Icon" FullSelectorArgument="&lt;webctrl aaname='First slide' idx='2' tag='IMG' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='First slide' type='' tag='IMG' class='d-block w-100' /&gt;" Guid="850290b8-b567-408e-b3f2-03941ddaa0df" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAHYcAAB2HAY/l8WUAAAAhSURBVBhXYwCC/yB8//59MMYt4OruBsZwgUOHDgHxof8AMdAglcxn1nkAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MyHCLTech - Home' /&gt;" SearchSteps="FuzzySelector" Version="V3" Visibility="Interactive" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

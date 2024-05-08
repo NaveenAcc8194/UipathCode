@@ -1,0 +1,13 @@
+﻿{
+  "Name": "A sp-appBar-link-create",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "_wTZJu4kPkSsmb9hHCCb1g",
+  "Reference": "EYD45X_tk0-UlNNxkmo8Rw/_wTZJu4kPkSsmb9hHCCb1g",
+  "ParentRef": "EYD45X_tk0-UlNNxkmo8Rw/q5VoZTzmzki8xdU0mLuNnA",
+  "Created": "2024-05-06T17:16:35.589363Z",
+  "Updated": "2024-05-06T17:16:35.589363Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

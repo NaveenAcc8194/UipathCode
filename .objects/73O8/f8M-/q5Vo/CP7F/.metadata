@@ -1,0 +1,13 @@
+﻿{
+  "Name": "My Claim (SAP Concur)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "CP7F6lqOV0yFnFn6VrUGRg",
+  "Reference": "EYD45X_tk0-UlNNxkmo8Rw/CP7F6lqOV0yFnFn6VrUGRg",
+  "ParentRef": "EYD45X_tk0-UlNNxkmo8Rw/q5VoZTzmzki8xdU0mLuNnA",
+  "Created": "2024-05-06T17:16:36.5901868Z",
+  "Updated": "2024-05-06T17:16:36.5901868Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "View",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "nH3zrPpwEEW-xOCCRSLJ4w",
+  "Reference": "EYD45X_tk0-UlNNxkmo8Rw/nH3zrPpwEEW-xOCCRSLJ4w",
+  "ParentRef": "EYD45X_tk0-UlNNxkmo8Rw/q5VoZTzmzki8xdU0mLuNnA",
+  "Created": "2024-05-06T17:16:37.3439451Z",
+  "Updated": "2024-05-06T17:16:37.3439451Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
